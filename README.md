@@ -24,7 +24,8 @@ In the survey, manual input for equipments' names. The suggestion is to have a d
 
 ## Data cleaning script
 Run data cleaning by executing the Python script:
-`python clean_survey_data.py`
+
+<h3 style="text-align: center;"><span style="color: #333399;"><a style="color: #333399;" href="https://github.com/Jorgebt/Code4Venezuela_NGOs_Dashboard/blob/master/clean_survey_data.py">AlgoTrading.ipynb</a></span></h3>
 This outputs the file "cleaned_survey_dataset.csv".
 
 Cleaning operations:
