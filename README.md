@@ -32,3 +32,6 @@ Cleaning operations:
 - De-duplicated the reports by only using the latest submitted report by hospital and week.
 - Created a corresponding numeric (ordinal) column for each of the medicine supply fields. Also calculate an aggregated rating of medical supplies.
   - Similarly, created a corresponding numeric column for each of the operability fields.
+  
+  <h2 style="text-align: center;">Authors</h2>
+ Lizaveta Radzevich, Luis Rodas, Jorge Betancourt, Pedro Nascimento, Ethan Yung
